@@ -81,6 +81,9 @@
   width: 700px;
   margin-right: 20px;
 }
+.product-img img {
+  width: 100%;
+}
 
 .product-content {
   margin-left: 20px;
